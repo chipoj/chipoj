@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_banner_designed_for_Chipo's_data_science_GitHub_.png" alt="Chipo Jokonya Data Science Banner" width="100%">
+  <img src="Chipo_GitHub_Banner_Compressed.png" alt="Chipo Jokonya Data Science Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Chipo Jokonya 👋</h1>
