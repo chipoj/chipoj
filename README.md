@@ -1,8 +1,6 @@
+![Chipo_GitHub_Banner_Compressed](https://github.com/user-attachments/assets/4b401cd7-eb3a-4d73-853c-2b9d4702d505)
 
-<p align="center">
 
-  <img src="Chipo_GitHub_Banner_Compressed.png" alt="Chipo Jokonya Data Science Banner" width="100%">
-</p>
 
 <h1 align="center">Hi, I'm Chipo Jokonya 👋</h1>
 
