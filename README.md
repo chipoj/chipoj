@@ -46,8 +46,8 @@
 
 ### 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](www.linkedin.com/in/chipojokonya)  
+- [Email](mailto:chipojj@gmail.com)  
 - [Portfolio](https://your-portfolio.com) *(Coming soon!)*
 
 ---
