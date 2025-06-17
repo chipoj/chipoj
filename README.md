@@ -23,7 +23,14 @@
 
 ### 📂 Featured Projects
 
-🚧 *Work in Progress – projects will appear here soon...*
+
+### 🎬 [Movie Ratings Prediction ML](https://github.com/chipoj/movie-ratings-prediction-ml)  
+*🔎 Python • Pandas • Scikit‑learn*  
+Built a regression model to predict MovieLens ratings with EDA, feature engineering, and performance tuning (RMSE ≈ 0.80).
+
+### 🌐 [Digital Competitiveness BRICS](https://github.com/chipoj/digital-competitiveness-brics)  
+*📊 Power BI • Trend Analysis • BRICS*  
+Designed dashboards comparing South Africa’s digital competitiveness (1995–2023), highlighting infrastructure weaknesses and policy-driven strengths.
 
 <!-- Example template for future use -->
 <!--
