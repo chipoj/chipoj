@@ -38,9 +38,10 @@
 
 ### 🎯 Current Goals
 
-- ✅ Turn academic assignments into professional GitHub projects
-- 🚀 Learn more about ML model deployment
-- 🌐 Build a data portfolio website
+- 📊 Showcase real-world analytics and machine learning projects with business relevance.
+- ☁️ Demonstrate secure and scalable data engineering practices on cloud platforms.
+- 📈 Build interactive dashboards using Power BI and Python visualizations.
+- 🤝 Collaborate and contribute to open-source data initiatives and tutorials.
 
 ---
 
